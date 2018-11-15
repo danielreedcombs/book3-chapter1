@@ -1,0 +1,24 @@
+#box1{
+    border: 1px black solid;
+}
+
+#box2{
+    border: 1px red solid;
+}
+#alignRight{
+    display:flex;
+    justify-content: space-around;
+    flex-direction:row;
+}
+/* #container {
+    display: flex;
+    min-height: 1500px;
+  }
+  
+  #audrey {
+    background-color: purple;
+    color: snow;
+    min-height: 100px;
+    width: 50px;
+    position: fixed;
+  } */
